@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif;
+}
+.banner-section{
+	width: 100%;
+	display: flow-root;
+	background-color: #7F56F5;
+
+}
+.banner-content{
+	padding: 100px 0px;
+}
+.container{
+	width: 990px;
+	margin:  0 auto;
+}
+.banner-content{
+	text-align: center;
+	color: white;
+}
+.banner-content h2{
+	font-size: 32px;
+	font-weight: 600;
+	margin: 0;
+}
+.banner-content p{
+	font-size: 16px;
+	font-weight: 300;
+	margin: 0;
+}
+
+.content-section{
+	width: 100%;
+	display: flow-root;
+	margin-top: 80px;
+}
+.content-all{
+	width: 100%;
+	float: left;
+}
+.box{
+	width: 50%;
+	float: left;
+	box-sizing: border-box;
+	padding: 40px;
+}
+.box img{
+	max-width: 100%;
+}
+.custom{
+	background-color: violet;
+	padding: 10px 30px;
+	color: white;
+	border: 1px solid violet;
+	border-radius: 5px;
+}
